@@ -8,7 +8,7 @@
 
 ## My Repos
  1. [Challenges Repo](https://github.com/vertefra/challenges)
- 1. [project 1 code]()
+ 1. [Chechers - reEdited](https://github.com/vertefra/projects/tree/master/checkers)
  1. [project 2 code]()
  1. [project 3 code]()
  1. [project 4 code]()
